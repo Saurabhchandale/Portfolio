@@ -174,7 +174,7 @@ git push origin feature-name
 
 ---
 
-## 👨‍💻 Developer
+## 👨‍💻 Analyst+Developer
 
 **Saurabh Chandale**
 
