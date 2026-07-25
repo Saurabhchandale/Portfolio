@@ -5,7 +5,6 @@ A modern web-based **Asset Management System** built to help individuals and org
 🌐 **Live Demo:** https://asset-manager--chandalesaurabh.replit.app/
 
 ---
-
 ## 🚀 Features
 
 - 📊 Interactive Dashboard
