@@ -79,9 +79,7 @@ Asset-Manager/
 ├── public/
 ├── package.json
 └── README.md
-```
-
----
+``
 
 ## ⚙️ Installation
 
