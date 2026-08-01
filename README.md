@@ -32,8 +32,6 @@ assets/
 └── reports.png
 ```
 
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
