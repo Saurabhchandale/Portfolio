@@ -19,7 +19,6 @@ A modern web-based **Asset Management System** built to help individuals and org
 - ⚡ Fast & User-Friendly Interface
 
 ---
-
 ## 📸 Screenshots
 
 > Add screenshots here after uploading them.
@@ -152,7 +151,6 @@ Contributions are welcome!
 ```bash
 git checkout -b feature-name
 ```
-
 3. Commit changes
 
 ```bash
@@ -168,7 +166,6 @@ git push origin feature-name
 5. Open a Pull Request
 
 ---
-
 ## 👨‍💻 Analyst+Developer
 
 **Saurabh Chandale**
@@ -186,12 +183,10 @@ git push origin feature-name
 
 This project is licensed under the MIT License.
 
----
 
 ## ⭐ Support
 
 If you found this project helpful, don't forget to **Star ⭐ the repository** and share your feedback!
-
 ---
 
 ### Made with ❤️ by Saurabh Chandale
