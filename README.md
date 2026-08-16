@@ -4,7 +4,7 @@ A modern web-based **Asset Management System** built to help individuals and org
 
 🌐 **Live Demo:** https://asset-manager--chandalesaurabh.replit.app/
 
----
+--
 ## 🚀 Features
 
 - 📊 Interactive Dashboard
@@ -46,7 +46,7 @@ assets/
 - Express.js
 
 ### Database
-- PostgreSQL / SQLite / MySQL *(Update according to your project)*
+- PostgreSQL / SQLite / MySQL 
 
 ### Authentication
 - JWT
@@ -180,7 +180,7 @@ git push origin feature-name
 ---
 
 ## 📄 License
-
+ 
 This project is licensed under the MIT License.
 
 
